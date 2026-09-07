@@ -1,6 +1,6 @@
 ## Hi there 👋
-# BIG
-### small
+# BIG LETTER
+### small letter
 
 <!--
 **legendbench1729/legendbench1729** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
